@@ -3,10 +3,37 @@
     <title>synCTI LIMS</title>
     <link href="https://raissafedora.github.io/feed.xml" rel="self" />
     <link href="https://raissafedora.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2019-05-23T15:44:03+08:00</updated>
     <author>
         <name>Raissa Fedora</name>
     </author>
     <id>https://raissafedora.github.io</id>
 
+    <entry>
+        <title>Knowledge Base</title>
+        <author>
+            <name>Raissa Fedora</name>
+        </author>
+        <link href="https://raissafedora.github.io/knowledge-base.html"/>
+        <id>https://raissafedora.github.io/knowledge-base.html</id>
+
+        <updated>2019-05-23T15:43:25+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Getting StartedRead this docCreate New AccountCreate New Sequencing..Majik!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dbhq8rmj0">Getting Started</h2>
+<ol>
+<li>Read this doc</li>
+<li>Create New Account</li>
+<li>Create New Sequencing</li>
+<li>..</li>
+<li>Majik!</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
 </feed>
