@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "synCTI LIMS",
     "description": "",
-    "home_page_url": "https://raissafedora.github.io",
-    "feed_url": "https://raissafedora.github.io/feed.json",
+    "home_page_url": "https://raissafedora.github.io/syncti-ngs",
+    "feed_url": "https://raissafedora.github.io/syncti-ngs/feed.json",
     "user_comment": "",
     "author": {
         "name": "Raissa Fedora"
     },
     "items": [
         {
-            "id": "https://raissafedora.github.io/knowledge-base.html",
-            "url": "https://raissafedora.github.io/knowledge-base.html",
+            "id": "https://raissafedora.github.io/syncti-ngs/knowledge-base.html",
+            "url": "https://raissafedora.github.io/syncti-ngs/knowledge-base.html",
             "title": "Knowledge Base",
             "summary": "Getting StartedRead this docCreate New AccountCreate New Sequencing..Majik!",
             "content_html": "<h2 id=\"mcetoc_1dbhq8rmj0\">Getting Started</h2>\n<ol>\n<li>Read this doc</li>\n<li>Create New Account</li>\n<li>Create New Sequencing</li>\n<li>..</li>\n<li>Majik!</li>\n</ol>",
