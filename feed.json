@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "synCTI LIMS",
+    "description": "",
+    "home_page_url": "https://raissafedora.github.io",
+    "feed_url": "https://raissafedora.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Raissa Fedora"
+    },
+    "items": [
+    ]
+}
